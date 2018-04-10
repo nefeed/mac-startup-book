@@ -193,3 +193,37 @@ alias vscode='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/
 alias proxy='export all_proxy=socks5://127.0.0.1:1086'
 alias unproxy='unset all_proxy'
 ```
+
+## 安装一些常用的第三方软件
+```shell
+# 安装maven环境
+brew install maven
+# 安装node环境
+brew install node
+# 安装vim工具
+brew install vim
+# 安装MySQL
+brew install mysql
+# 安装指令高亮工具
+brew install highlight
+# 安装zsh指令高亮工具
+brew install zsh-syntax-highlighting
+# 安装curl（模拟请求）工具
+brew install curl
+# 安装autojump（快速跳转）工具
+brew install autojump
+# 安装fuck（自动修正指令）工具
+brew install fuck
+# 安装钉钉
+brew cask install dingtalk
+# 安装微信
+brew install wxmac
+# 安装QQ
+brew cask install qq
+# 安装chrome
+brew cask install google-chrome
+# 安装网易云音乐
+brew cask install neteasemusic
+# 安装视频播放器
+brew cask install iina
+```
