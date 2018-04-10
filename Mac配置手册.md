@@ -1,7 +1,5 @@
 # Mac配置手册
 
-> [指导手册（中文）](https://github.com/nefeed/mac-startup-book/blob/master/Mac配置手册.md)
-
 ## 允许非认证开发者应用程序启动
 
 ```Shell
