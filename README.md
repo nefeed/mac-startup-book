@@ -213,7 +213,7 @@ brew install curl
 # 安装autojump（快速跳转）工具
 brew install autojump
 # 安装fuck（自动修正指令）工具
-brew install fuck
+brew install thefuck
 # 安装钉钉
 brew cask install dingtalk
 # 安装微信
