@@ -216,8 +216,6 @@ brew install autojump
 brew install thefuck
 # 安装钉钉
 brew cask install dingtalk
-# 安装微信
-brew install wxmac
 # 安装QQ
 brew cask install qq
 # 安装chrome
